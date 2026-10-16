@@ -1,0 +1,6 @@
+{
+  "name": "SingaForex - SGD Exchange Rates & Trends",
+  "description": "Singapore-based real-time currency exchange rates for SGD pairs with historical trend charts, multi-currency calculator, favorites watchlist, and MAS API integration readiness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
